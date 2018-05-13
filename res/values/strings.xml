@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ms3</string>
+    <string name="video_starten">Video starten</string>
+    <string name="wissenswertes_lesen">Wissenswertes lesen</string>
+    <string name="quiz_starten">Quiz starten</string>
+    <string name="passwortsicherheit">Passwortsicherheit</string>
+    <string name="wissenswertes_lesen">Wissenswertes lesen</string>
+    <string name="quiz_starten">Quiz starten</string>
+    <string name="video_starten">Video starten</string>
+</resources>
